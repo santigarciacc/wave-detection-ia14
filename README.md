@@ -1,4 +1,4 @@
-# Topological Condemnation: Epidemic Waves in Sobolev Spaces
+# Redefining Epidemiological Waves: Structural Stability and Global Empirical Validation in Sobolev Spaces
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
