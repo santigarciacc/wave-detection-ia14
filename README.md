@@ -17,7 +17,7 @@ This repository provides a structurally stable algorithm that:
 3. Evaluates the global *Topological Condemnation* (total days spent in structural instability) across 170+ nations using JHU and World Bank data.
 
 ## Files in this Repository
-* `h3_wave_detection.ipynb`: The main reproducible Jupyter Notebook containing all the mathematical logic and the global execution loop.
+* `redefining_epidemiological_waves.ipynb`: The main reproducible Jupyter Notebook containing all the mathematical logic and the global execution loop.
 * `Country_Summary_H3.csv`: The final dataset summarizing the total epidemic days and wave counts for over 170 countries.
 * `Detailed_Waves_H3.csv`: A detailed log of every single wave detected globally, including exact phase transition dates.
 * `figures/`: A folder containing the generated topo-kinematic graphs for all analyzed countries.
