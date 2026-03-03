@@ -1,0 +1,7 @@
+pillow
+matplotlib
+numpy
+empiricaldist
+pandas
+scipy
+seaborn
